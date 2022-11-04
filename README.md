@@ -8,5 +8,5 @@ Los archivos necesarios son:
 Cantidades diarias de casos a nivel nacional: 05_30_22_CSV_GENERAL.csv  
 Cantidades de casos por cantón: 05_30_22_CSV_POSITIVOS.csv    
 
-Se realizan graficos sobre la distribución  y avance durante los años afectados por la pandemia, esto se realiza con menores, hombres, mujeres, adultos y adultos mayores. Ademas se muestra esta distribución según el canton y provincia.  
-A su vez se meustran tablas con los datos utilizados de los dos archivos. 
+Se realizan gráficos sobre la distribución  y avance durante los años afectados por la pandemia, esto se realiza con menores, hombres, mujeres, adultos y adultos mayores. Ademas se muestra esta distribución según el cantón y provincia.  
+A su vez se muestran tablas con los datos utilizados de los dos archivos. 
