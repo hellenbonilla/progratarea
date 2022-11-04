@@ -1,3 +1,5 @@
+## El covid-19 y su evolución
+
 El covid-19 ha afectado durante los últimos dos años al país, es un virus que forma parte de la familia de virus “Coronavirus”, que reciben su nombre por su forma en “corona”. Este fue identificado en el 2019 y causa la enfermedad que es responsable de la actual pandemia. Dentro de los datos diarios que se van a observar a continuación, se evidenciará su evolución y afectación a diferentes tipos de poblaciones tanto provincial como cantonal (Ministerio de Salud, 2022).
 
 Se utilizaran los datos de COVID en Costa Rica al 30 de mayo de 2022, disponibles en [Ministerio de Salud]( https://oges.ministeriodesalud.go.cr/).
